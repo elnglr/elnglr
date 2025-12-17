@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Helin</h1>
-<h3 align="center">Robotics engineer, technical product manager, vibe coder, future investor</h3>
+<h1 align="center"> Hiyaa it's Helin!🎨 </h1>
+<h3 align="center"> Robotics engineer , technical product manager, vibe coder, future investor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elnglr&label=Profile%20views&color=0e75b6&style=flat" alt="elnglr" /> </p>
 
